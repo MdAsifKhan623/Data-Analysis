@@ -1,0 +1,6 @@
+﻿Student_Id,Age,Gender,Grade,Employed
+1,19,Male,A,yes
+2,20,Female,B,no
+3,18,Male,A,no
+4,21,Female,B+,no
+5,19,Male,A-,no
